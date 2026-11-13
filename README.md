@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:050816,30:171044,65:8A2BE2,100:00E5FF&text=ALLAE.exe&fontSize=65&fontColor=00F5FF&animation=fadeIn&stroke=FF00A8&strokeWidth=2" width="100%"/>
+<img src="./banniere.gif" width="300" alt="gif"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=19&duration=2500&pause=1000&color=FF00A8&center=true&vCenter=true&width=550&lines=SYSTEM+ONLINE...;FULL-STACK+DEVELOPER;CYBERSECURITY+STUDENT;ACCESSING+THE+DIGITAL+WORLD..." />
 
