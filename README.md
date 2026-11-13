@@ -1,11 +1,11 @@
 
 <div align="center">
 
-<img src="./banniere.gif" width="300" alt="gif"/>
+<img src="./banniere.gif" width="80%" alt="gif"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=19&duration=2500&pause=1000&color=FF00A8&center=true&vCenter=true&width=550&lines=SYSTEM+ONLINE...;FULL-STACK+DEVELOPER;CYBERSECURITY+STUDENT;ACCESSING+THE+DIGITAL+WORLD..." />
 
-`[ SYSTEM STATUS: ONLINE ]` ` [ LOCATION: NIGHT CITY ]`
+`[ SYSTEM STATUS: ONLINE ]` ` [ LOCATION: Paris ]`
 
 </div>
 
@@ -97,22 +97,15 @@ Développeuse web passionnée par la création d'applications et les technologie
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TON-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5FF&icon_color=FF00A8&text_color=C9D1D9" width="95%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5FF&text_color=C9D1D9"/>
-
-</div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:8A2BE2,100:00E5FF&height=120&section=footer" width="100%"/>
-
-`END OF TRANSMISSION`
-
-**ALLAE.exe © 2026**
-
-`[ HACK THE PLANET • BUILD THE FUTURE ]`
-
+Allae © 2026
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A89BB5,35:F4B8A0,70:E8795C,100:5A3A2E&height=160&section=footer" width="100%"/>
 </div>
+
+
+
